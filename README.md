@@ -1,5 +1,4 @@
-Seekho Anime App
-This is my submission for the Seekho Android Developer assignment. I built a modern, offline-first anime browser app using the Jikan API.
+I built a modern, offline-first anime browser app using the Jikan API.
 
 What I Built
 I wanted to go beyond the basic requirements and build an app that was both robust and enjoyable to use. Here are some of the key features I implemented:
